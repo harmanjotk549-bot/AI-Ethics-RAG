@@ -65,7 +65,6 @@ The chatbot retrieves relevant information from documents and generates accurate
 ![Chat Output 1](output1.png.jpeg)
 ![Chat Output 2](output2.png.jpeg)
 ![Chat Output 3](output3.png.jpeg)
-![Chat Output 4](output4.png.jpeg)
 
 ---
 
