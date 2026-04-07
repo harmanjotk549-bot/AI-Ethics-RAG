@@ -62,7 +62,7 @@ The chatbot retrieves relevant information from documents and generates accurate
 ![Workflow Configuration](flowise.png.jpeg)
 
 ### 🔹 Chatbot Interaction
-![Chat Output 1](output1 .png.jpeg)
+![Chat Output 1](output1.png.jpeg)
 ![Chat Output 2](output2.png.jpeg)
 ![Chat Output 3](output3.png.jpeg)
 ---
